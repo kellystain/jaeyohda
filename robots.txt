@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daedaikah.velox42.com/sitemap.xml
